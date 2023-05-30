@@ -21,4 +21,4 @@
 
 <img src="https://i.imgur.com/I0S3fzE.gif"/>
 
-## Please give this repo a ⭐ if it was helpful to you.
+## Please give this repo a ⭐ if you found it helpful.
