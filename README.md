@@ -15,3 +15,8 @@
 
 #### The application can be accessed through the following link:
 [Registration and Login App Using React, Express and MongoDB](https://react-auth-app.netlify.app/)
+
+
+ ## 🚀 Preview of The Application
+
+<img src="https://i.imgur.com/I0S3fzE.gif"/>
