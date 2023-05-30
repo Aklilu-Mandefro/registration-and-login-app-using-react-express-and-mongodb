@@ -12,3 +12,6 @@
 * Run ``npm install``
 * Run ``npm start``
 *That will open the project on your default browser*
+
+#### The application can be accessed through the following link:
+[Registration and Login App Using React, Express and MongoDB](https://react-auth-app.netlify.app/)
